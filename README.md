@@ -7,4 +7,4 @@
 - 📫 How to reach me: [ivrag](mailto:info@ivrag.ch)
 
 ## Interests
-We are currently looking for programmers in `HTML` `CSS` `JavaScript` `PHP` & `MySQL`
+We are currently looking for programmers in `HTML` `CSS` `JavaScript` `PHP` & `MySQL`.
